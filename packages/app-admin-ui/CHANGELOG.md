@@ -1,5 +1,11 @@
 # @keystonejs/app-admin-ui
 
+## 5.11.2
+
+### Patch Changes
+
+- [`b0bfcf79`](https://github.com/keystonejs/keystone/commit/b0bfcf79477249f3c0bb14db68588d84a68f0186) [#2812](https://github.com/keystonejs/keystone/pull/2812) Thanks [@Vultraz](https://github.com/Vultraz)! - Don't duplicate HeaderInset multiple times.
+
 ## 5.11.1
 
 ### Patch Changes
